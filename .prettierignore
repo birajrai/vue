@@ -1,0 +1,6 @@
+# Lockfile
+package-lock.json
+
+# Generated build
+dist/
+.parcel-cache
