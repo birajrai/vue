@@ -1,7 +1,7 @@
 {
   "name": "vue",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Simple Vue Starter Template with Parcel.",
+  "version": "1.0.0",
   "scripts": {
     "dev": "parcel src/index.html --host=0.0.0.0 --port=8080",
     "generate": "parcel build src/index.html",
@@ -11,8 +11,8 @@
   },
   "author": {
     "name": "Biraj Rai",
-    "email": "me@birajrai.tk",
-    "url": "https://birajrai.tk"
+    "email": "birajrai.official@gmail.com",
+    "url": "https://itsbiraj.vercel.app"
   },
   "license": "MIT",
   "devDependencies": {
@@ -20,9 +20,9 @@
     "@parcel/transformer-sass": "2.8.2",
     "@parcel/transformer-vue": "2.8.2",
     "husky": "9.0.11",
-    "parcel": "2.8.2",
-    "prettier": "3.2.5",
-    "serve": "14.1.2"
+    "parcel": "2.12.0",
+    "prettier": "2.8.8",
+    "serve": "14.2.1"
   },
   "dependencies": {
     "nprogress": "0.2.0",
