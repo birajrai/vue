@@ -16,17 +16,17 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@parcel/core": "2.8.2",
-    "@parcel/transformer-sass": "2.8.2",
-    "@parcel/transformer-vue": "2.8.2",
+    "@parcel/core": "2.12.0",
+    "@parcel/transformer-sass": "2.12.0",
+    "@parcel/transformer-vue": "2.12.0",
     "husky": "9.0.11",
-    "parcel": "2.8.2",
+    "parcel": "2.12.0",
     "prettier": "3.2.5",
-    "serve": "14.1.2"
+    "serve": "14.2.1"
   },
   "dependencies": {
     "nprogress": "0.2.0",
-    "vue": "3.2.45",
-    "vue-router": "4.1.6"
+    "vue": "3.4.23",
+    "vue-router": "4.3.1"
   }
 }
